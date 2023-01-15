@@ -2,7 +2,7 @@
 ## blog-app-react-express-mysql
 Blog app. User create, post, delete and update Blogs and also check the similar type blogs.
 ### Language
-- ReactJavascript)
+- React.Js, Express.Js
 
 #### Tech stack and packages:
 - React
@@ -27,7 +27,9 @@ $ cd blog-app-react-express-mysql
 $ cd client
 $ npm install
 $ npm start
+```
 && in another terminal for Express.Js:
+```
 $ cd api
 $ npm install
 $ npm start
