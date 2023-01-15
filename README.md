@@ -43,20 +43,20 @@ $ npm run build[for building app]
 
 Package.json in client:
 ```
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-quill": "^2.0.0",
-    "react-router-dom": "^6.6.1",
-    "react-scripts": "5.0.1",
-    "sass": "^1.57.1",
-    "web-vitals": "^2.1.4"
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-quill": "^2.0.0",
+"react-router-dom": "^6.6.1",
+"react-scripts": "5.0.1",
+"sass": "^1.57.1",
+"web-vitals": "^2.1.4"
 ```
 Package.json in api:
 ```
-    "bcrypt": "^5.1.0",
-    "express": "^4.18.2",
-    "mysql": "^2.18.1",
-    "nodemon": "^2.0.20"
+"bcrypt": "^5.1.0",
+"express": "^4.18.2",
+"mysql": "^2.18.1",
+"nodemon": "^2.0.20"
 ```    
 **Command to make the build using new credentials**
 ```
